@@ -10,7 +10,7 @@ baseurl: # the subpath of the site
 url: https://namle-a6.github.io/Namlete.github.io/ # the base hostname & protocol for your site
 
 permalink: /:year-:month/:title
-timezone:
+timezone:Asia/Ho Chi Minh City
 
 favicon: /assets/img/favicon.ico
 
@@ -19,11 +19,28 @@ disqus_shortname: #disqus shortname
 cusdis:
     app_id: #your cusdis app_id
 
+# Page views settings
+pageviews:
+  provider: # now only supports 'goatcounter'
+
+# Prefer color scheme setting.
+#
+# Note: Keep empty will follow the system prefer color by default,
+# and there will be a toggle to switch the theme between dark and light
+# on the bottom left of the sidebar.
+#
+# Available options:
+#
+#     light — Use the light color scheme
+#     dark — Use the dark color scheme
+#
+theme_mode: # [light | dark]
+
 user:
   name: Namlete
   pic: /assets/img/cat.jpg
   picAlt: "catbook"
-  job: a category-centric theme
+  job: một thằng lông bông sinh năm 2007
   aboutme: true # comment this out if you don't need the 'about' page.
 
 exclude:
