@@ -10,7 +10,7 @@ baseurl: # the subpath of the site
 url: https://namle-a6.github.io/Namlete.github.io/ # the base hostname & protocol for your site
 
 permalink: /:year-:month/:title
-timezone:Asia/Ho Chi Minh City
+timezone: Asia/Ho Chi Minh City
 
 favicon: /assets/img/favicon.ico
 
