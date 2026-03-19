@@ -1,6 +1,6 @@
 # Catbook
 
-Lấy từ: https://github.com/starry99/catbook
+https://github.com/starry99/catbook
 
 CATbook is a CATegory-centric Jekyll theme for bloggers. There is a switch button to toggle between dark mode and light mode. This theme is originally inspired from [Book](https://github.com/kkninjae/book).
 
