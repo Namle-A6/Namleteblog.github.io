@@ -25,7 +25,7 @@ user:
   name: Namlete
   pic: /assets/img/Jirô Horikoshi.jpg
   picAlt: "Jirô Horikoshi"
-  job: một thằng lông bông sinh năm 2007
+  job: t job: tạo blog cho vui chứ không gì cả.
   aboutme: true # comment this out if you don't need the 'about' page.
 
 exclude:
