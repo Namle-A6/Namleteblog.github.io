@@ -17,5 +17,9 @@ Thảm họa hàng không München ngày 6 tháng 2 năm 1958 cướp đi sinh m
 Busby buộc phải tái thiết đội hình, và cùng với đó, ông đi tìm một bản sắc mới mà ngày nay chúng ta thân thuộc hơn mỗi khi nhắc đến Manchester United với biệt danh “Quỷ đỏ”. "Busby Babes" giờ đây trở thành một ký ức đau thương, gợi nhắc về thảm kịch Munich – nơi những tài năng trẻ mãi mãi ra đi, nơi những đồng đội còn sống sót cố gắng kéo nhau ra từ đống đổ nát, và cũng là nơi sự hồn nhiên của cả một thế hệ bị vùi lấp.
 
 Forever in our hearts 06.02.1958 – 06.02.2025 
-  
+
+<div align="center">  
+
 ![]({{site.baseurl}}/assets/img/Busby%20Babes.jpg)
+
+</div>

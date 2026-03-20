@@ -1,5 +1,5 @@
 ---
-title: JOHN LENNON - Hôm nay nghe “Imagine”, tôi vẫn mơ và thế giới vẫn đảo điên...
+title: John  - Hôm nay nghe “Imagine”, tôi vẫn mơ và thế giới vẫn đảo điên...
 categories: [writing ]
 comments: true
 ---
